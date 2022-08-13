@@ -1,0 +1,203 @@
+
+@media screen and (max-width: 1250px){
+   .wrapper .footer .mtext {
+    margin: 30px 197px;
+}
+}
+
+@media screen and (max-width: 1060px) {
+  
+  .wrapper .bodyname .text {
+    left: 215px;
+    top: 100px;
+    width: 60%;
+    height: 271px;
+}
+.wrapper .bodyname .text h1 {
+    font-size: 85px;
+}
+.wrapper .bodyname .text a {
+    font-size: 22px;
+}
+
+.wrapper #Contact .mail, .mapp {  
+    height: 80%;
+}
+.wrapper #Contact .mail h2 {
+    font-size: 20px;
+}
+
+.wrapper .info .address a {
+    font-size: 22px;
+    }
+.wrapper .footer .mtext {
+    margin: 30px 87px;
+}
+
+}
+
+@media screen and (max-width: 850px){
+
+.wrapper .header .mitem {
+    display: none;
+}
+.wrapper .header .logo{
+    width: 72%;
+    margin-left: 58px;
+    height: 65px;
+}
+.wrapper .header .logo h1 {
+    text-align: center;
+    font-size: 43px;
+    margin-top: 10px;
+}
+
+  .wrapper .bodyname .text {
+        left: 185px;
+}
+.wrapper .bodyname .text h1 {
+    font-size: 75px;
+}
+.wrapper .bodyname .text a {
+    font-size: 20px;
+}
+
+
+.wrapper .footer .mtext {
+    margin: 30px 38px;
+}
+.wrapper .footer a {
+    margin: 29px 10px 0 90px;
+}
+
+}
+
+@media screen and (max-width: 680px){
+
+.wrapper .bodyname .text {
+     left: 154px;
+}
+.wrapper .bodyname .text h1 {
+    font-size: 70px;
+}
+.wrapper .header .logo{
+    width: 55%;
+}
+.wrapper .header .logo h1 {
+    font-size: 38px;
+}
+
+.wrapper #Contact {
+    width: 100%;
+    height: 1013px;
+}
+
+.wrapper #Contact .mail{
+    height: 449px;
+    width: 100%;
+}
+.wrapper #Contact .mapp {
+    height: 449px;
+    width: 92%;
+    margin: 0% 4% 0% 4%;
+}
+
+.wrapper #Contact .mail form .submit {
+    width: 118px;
+    height: 40px;
+    }
+.wrapper .info .address a {
+    font-size: 15px;
+    }
+
+ .wrapper .info .address p {
+    font-size: 14px;
+}
+.wrapper .info .time ul li {
+    font-size: 15px;
+    color: #2c2c2c;   
+    text-shadow: 2px 0px 0px white;
+}
+
+
+}
+
+@media screen and (max-width: 660px){
+
+  .wrapper .footer .mtext {
+    margin: 30px 8px;
+}
+
+}
+@media screen and (max-width: 640px){
+  .wrapper{
+	width: 630px;
+}
+  .wrapper .footer .mtext {
+    margin: 30px 8px;
+}
+
+}
+@media screen and (max-width: 500px){
+  .wrapper{
+	width: 490px;
+}
+
+.wrapper .bodyname {
+    height: 414px;
+}
+
+.wrapper .bodyname .text {
+    left: 97px;
+}
+
+.wrapper .bodyname .text h1 {
+    font-size: 55px;
+}
+  .wrapper .footer .mtext {
+    margin: 30px 8px;
+}
+
+.wrapper #Contact .mapp {
+    height: 440px;
+    width: 85%;
+    margin: 0% 5% 0% 6%;
+}
+.wrapper .info {
+   height: 621px;
+}
+
+.wrapper .info .address, .time {
+    width: 77%;
+    height: 274px;
+    margin: 10px 50px;
+}
+.wrapper .info .address h2, .time h2 {
+    font-size: 35px;
+}
+.wrapper .info .address a {
+    font-size: 23px;
+}
+.wrapper .info .address p {
+    font-size: 18px;
+}
+.wrapper .info .time ul li {
+    font-size: 17px;
+}
+
+
+.wrapper .footer a {
+    text-align: left;
+    font-size: 16px;
+    margin: 29px -15px 0 83px;
+}
+.wrapper .footer .mtext {
+    margin: 31px 46px;
+}
+
+.wrapper .footer .rtext {
+    text-align: center;
+    margin: -27px 131px;
+}
+
+}
